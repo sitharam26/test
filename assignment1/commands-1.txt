@@ -1,0 +1,4 @@
+#!/bin/bash
+ls -1 | grep '^a' | wc -l
+find . -maxdepth 1 -name 'a*' | wc -l
+ls -1 | awk '/^a/' | wc -l

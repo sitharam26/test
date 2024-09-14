@@ -1,0 +1,10 @@
+Fred 20 
+Mark 12 
+Robert 4 
+Terry 9 
+Lisa 7 
+Susie 12 
+Anne 7 
+Greg 3 
+Oliver 2 
+Betty 14  
